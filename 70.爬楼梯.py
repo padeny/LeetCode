@@ -36,7 +36,7 @@
 # 2.  1 阶 + 2 阶
 # 3.  2 阶 + 1 阶
 #
-#
+# 类似菲波那契数列
 #
 class Solution:
     def climbStairs(self, n: int) -> int:
